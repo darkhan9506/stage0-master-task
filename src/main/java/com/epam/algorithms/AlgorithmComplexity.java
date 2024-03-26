@@ -11,6 +11,7 @@ import com.epam.algorithms.utils.Complexity;
  */
 public class AlgorithmComplexity {
 
+
     /**
      * Return the linear search complexity if the element you are looking for is at the end of the array.
      */
